@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+   - name: poc_data
+     schema: bronze
+     tables:
+      - name: exrate
+      - name: stockhistory
